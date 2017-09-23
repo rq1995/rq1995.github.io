@@ -1,11 +1,9 @@
 ---
 layout: post
 title: The Binomial distribution
+date: 2017-09-23
 ---
 
-# The Binomial distribution
-
-Ruoqi Xu 2017-09-13
 ## 1. Binomial Experiments
 
 Binomial distribution is the discrete probability distribution. If we want to know what is binomial distribution, we must know what is *binomial experiments*.
