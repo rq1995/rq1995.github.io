@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Ruoqi (Stephanie) Xu and I'm a graduate student at UBC. 
+I focus on the data analysis and data mining. Despite that, I also work with photography and digital image editing.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my [GitHub page](https://github.com/rq1995) for some of my 
+open-source projects
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rq658182@dal.ca](mailto:ra658182@dal.ca)
